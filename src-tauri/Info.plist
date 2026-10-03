@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>NSLocalNetworkUsageDescription</key>
+    <string>FileHop 需要访问局域网，以发现另一台电脑并直接传输你选择的文件。</string>
+    <key>NSBonjourServices</key>
+    <array>
+      <string>_filehop._tcp</string>
+    </array>
+  </dict>
+</plist>
